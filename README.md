@@ -133,20 +133,12 @@ The system will:
 
 ---
 
-# Example Output
-
 ## Project Output
 
-![Project Output]()
-
+![Project Output](op1.PNG)
+![Project Output](op2.png)
 ```
-Top Matching Candidates
 
-Category            Similarity Score
-Data Science        0.87
-Python Developer    0.84
-Machine Learning    0.81
-```
 
 A **bar graph visualization** will also appear showing the similarity scores of the top candidates.
 
