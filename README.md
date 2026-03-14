@@ -137,7 +137,7 @@ The system will:
 
 ![Project Output](op1.PNG)
 ![Project Output](op2.png)
-```
+
 
 
 A **bar graph visualization** will also appear showing the similarity scores of the top candidates.
