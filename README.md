@@ -89,7 +89,7 @@ Each resume contains textual information used for semantic analysis.
 Clone the repository
 
 ```bash
-git clone https://github.com/Seethalaxmi0103/resume-screening-bert.git
+git clone https://github.com/Seethalaxmi0103/Intelligent-Resume-Screening-System-Using-BERT-Based-Semantic-Matching.git
 ```
 
 Navigate to the project folder
